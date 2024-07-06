@@ -1,0 +1,43 @@
+@font-face {
+    font-family: Lato liht;
+    src: url('/fonts/Lato-Light.ttf') format('ttf')
+}
+body {
+    font-family: 'Lato liht';
+}
+.oferta {
+    transition: all 0.3s;
+}
+    .oferta:hover {
+        transform: scale(1.07);
+        cursor: pointer;
+        border-color: #fde456;
+    }
+.wycenka {
+    transition: all 0.3s;
+}
+
+.wycenka:hover {
+    transform: scale(1.07);
+}
+.carousel__icon{
+    color:black;
+}
+.carousel{
+    text-align:left;
+}
+.naglowek:hover {
+    color: #fde456;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}
+.pagination {
+    --bs-pagination-active-bg: #fde456;
+    --bs-pagination-color: #fde456;
+    --bs-pagination-hover-color: #fde456;
+    border-color: #fde456;
+    --bs-pagination-focus-color: #fde456;
+    --bs-pagination-active-border-color: #fde456;
+}

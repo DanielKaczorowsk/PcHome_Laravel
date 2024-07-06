@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\scripts\\zlecenia",
+    "\\app\\scripts\\zlecenia\\models",
+    "\\config",
+    "\\resources",
+    "\\resources\\js",
+    "\\resources\\js\\components",
+    "\\resources\\js\\components\\webapi",
+    "\\routes"
+  ],
+  "SelectedNode": "\\config\\app.php",
+  "PreviewInSolutionExplorer": false
+}
