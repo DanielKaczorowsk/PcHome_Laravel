@@ -1,4 +1,6 @@
 Permission/Role Command:
+Object('search date') only has_table/onetable
+Object('') all_table
 Object->Permission(has_table)
 Object->Permission(all_table)
 Object->Permission(one_table)
